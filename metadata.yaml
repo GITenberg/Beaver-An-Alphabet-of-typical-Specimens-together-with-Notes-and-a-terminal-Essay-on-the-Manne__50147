@@ -1,10 +1,16 @@
 _repo: Beaver-An-Alphabet-of-typical-Specimens-together-with-Notes-and-a-terminal-Essay-on-the-Manne__50147
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50147-h/images/cover.jpg
 creator:
   author:
     agent_name: Kettelwell, John
     gutenberg_agent_id: '45723'
     url: http://www.gutenberg.org/2009/agents/45723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50147#Beaver-An-Alphabet-of-typical-Specimens-together-with-Notes-and-a-terminal-Essay-on-the-Manne_
 gutenberg_issued: '2015-10-06'
 gutenberg_type: Text
 identifiers:
